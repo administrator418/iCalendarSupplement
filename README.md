@@ -1,2 +1,1 @@
-# CalendarSupplement
-苹果日历补充
+# iCalendarSupplement 苹果日历补充
